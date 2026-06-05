@@ -142,7 +142,7 @@ Con DHCP Snooping activo, el switch descarta silenciosamente los Offers y ACKs q
 
 ## Video demostrativo
 
-**Enlace:** [https://youtu.be/H2qzdD5nQmg](https://youtu.be/H2qzdD5nQmg)
+**Enlace:** [https://www.youtube.com/watch?v=H2qzdD5nQmg&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp](https://www.youtube.com/watch?v=H2qzdD5nQmg&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp)
 
 ---
 

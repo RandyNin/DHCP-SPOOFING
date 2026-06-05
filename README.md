@@ -98,6 +98,8 @@ sudo sysctl -w net.ipv4.ip_forward=1
 
 ## Entorno de laboratorio
 
+<img src="IMG/Topology.png" alt="Descripción" width="710"/>
+
 |Dispositivo|Rol|IP|MAC|
 |:--|:--|:--|:--|
 |R-1|Gateway / DHCP legítimo / NAT|20.25.6.60/24|0c:16:94:84:00:00|

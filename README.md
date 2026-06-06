@@ -21,7 +21,7 @@ DHCP-SPOOFING/
 
 La documentación técnica completa de este laboratorio está disponible en:
 
-**[Documentación Tecnica Profesional DHCP SPOOFING (Randy Nin -- 2025-0660).pdf](Documentación%20Tecnica%20Profesional%20DHCP%20SPOOFING%20(Randy%20Nin%20--%202025-0660).pdf)**
+**[Documentación Tecnica Profesional DHCP SPOOFING(Randy Nin -- 2025-0660).pdf](Documentación%20Tecnica%20Profesional%20DHCP%20SPOOFING(Randy%20Nin%20--%202025-0660).pdf)**
 
 Incluye contexto técnico del protocolo DHCP y su vulnerabilidad, topología y configuración del entorno, análisis completo del script y su mecanismo de carrera, evidencia del ataque con capturas de pantalla, demostración de intercepción con Wireshark y contramedidas con DHCP Snooping.
 
